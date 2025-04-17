@@ -4,20 +4,49 @@
     "href": "index.html",
     "title": "YOUR PROJECT TITLE",
     "section": "",
-    "text": "1 Introduction"
+    "text": "1 Introduction",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   },
   {
-    "objectID": "data.html#description",
-    "href": "data.html#description",
+    "objectID": "index.html#first-result",
+    "href": "index.html#first-result",
+    "title": "YOUR PROJECT TITLE",
+    "section": "1.1 First result",
+    "text": "1.1 First result",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#second-result",
+    "href": "index.html#second-result",
+    "title": "YOUR PROJECT TITLE",
+    "section": "1.2 Second result",
+    "text": "1.2 Second result\n\n\nCode\nlibrary(ggplot2)\nggplot()",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
     "title": "2  Data",
-    "section": "2.1 Description",
-    "text": "2.1 Description"
+    "section": "",
+    "text": "2.1 Description",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data</span>"
+    ]
   },
   {
     "objectID": "data.html#missing-value-analysis",
     "href": "data.html#missing-value-analysis",
     "title": "2  Data",
     "section": "2.2 Missing value analysis",
-    "text": "2.2 Missing value analysis"
+    "text": "2.2 Missing value analysis",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data</span>"
+    ]
   }
 ]

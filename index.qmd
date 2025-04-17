@@ -1,1 +1,11 @@
 # Introduction
+
+## First result
+
+## Second result
+
+```{r}
+library(ggplot2)
+ggplot()
+```
+

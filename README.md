@@ -28,6 +28,8 @@ This repo contains a [Quarto book](https://quarto.org/docs/books/) template for 
 
 - [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio. You will need to paste the link from the previous step in the Repository URL box. If it's not automatically populated, enter the repo name in the "Project directory name:" box. Choose the location of the project.
 
+### studious-pancake
+
 ### Edit `_quarto.yml` (RStudio)
 
 Tip: From the file pane in RStudio, open `README.md`, which contains these instructions. You can delete steps as you complete them.

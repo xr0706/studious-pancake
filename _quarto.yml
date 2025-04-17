@@ -8,9 +8,8 @@ execute:
 book:
   title: "YOUR PROJECT TITLE"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+    - Xinrong (xr0706)
+  repo-url: https://github.com/xr0706/studious-pancake
   date: today
   page-footer:
     right: |
